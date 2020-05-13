@@ -1,29 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@awspras 
-linuxacademy
-/
-cicd-pipeline-train-schedule-cd
-6
-92.3k
- Code
- Issues 2
- Pull requests 26 Actions
- Projects 0
- Wiki
- Security 0
- Insights
-cicd-pipeline-train-schedule-cd/Jenkinsfile
-@whboyd whboyd Implement CD pipeline
-d605ba9 on May 3, 2018
-74 lines (74 sloc)  3.25 KB
-  
 pipeline {
     agent any
     stages {
@@ -98,15 +72,3 @@ pipeline {
         }
     }
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
